@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaygupta12&theme=juicyfresh" alt="abhaygupta12" /></a> </p>
 
-- 💬 Ask me about **C/Cpp programming, Python, React**
+- 💬 Ask me about **C/Cpp programming, Python, React.**
 
-- 📫 How to reach me **abhaygupta88599@gmail.com**
+- 📫 How to reach me **abhaygupta88599@gmail.com.**
 
-- My primary coding language: **C programming**
+- My primary coding language: **C programming.**
 
 - Earned 3 star at HackerRank in Problem Solving...
 
@@ -17,7 +17,9 @@
 
 - Ask me about anything, I'll be happy to help in finding the solution.
 
-- I'm looking to collaborate on Open source project
+- I'm looking to collaborate on Open source project.
+
+- I’m currently exploring MERN Stack...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
