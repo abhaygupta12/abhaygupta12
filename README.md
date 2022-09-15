@@ -11,7 +11,7 @@
 
 - My primary coding language: **C programming.**
 
-- Earned 3 star at HackerRank in Problem Solving...
+- Earned 4 star at HackerRank in Problem Solving...
 
 - Passionate for learning & exploring new Tech.
 
