@@ -1,7 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Abhay Gupta</h1>
+ 
+ <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Abhay Gupta</h1>
 <h3 align="center">A passionate Programmer & Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaygupta12&label=Profile%20views&color=0e75b6&style=flat" alt="abhaygupta12" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaygupta12&theme=juicyfresh" alt="abhaygupta12" /></a> </p>
 
@@ -22,10 +24,11 @@
 - I’m currently exploring MERN Stack...
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  
 <a href="https://www.linkedin.com/in/abhay-gupta-278529197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="abhaygupta12" height="30" width="40" /></a> 
- <a href="https://www.hackerrank.com/abhaygupta88599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/hackerrank.svg" alt="abhaygupta88599" height="30" width="40" /></a></p>
+ <a href="https://www.hackerrank.com/abhaygupta88599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/hackerrank.svg" alt="abhaygupta88599" height="30" width="40" /></a>
+ </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -44,12 +47,14 @@
   
   <img align="left"  width="26px"  src="https://user-images.githubusercontent.com/44005233/120921731-9e8ecf80-c6e2-11eb-9ea1-aa04f03ced2e.png" alt="Bootstrap" />
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></p>
 
-  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaygupta12&show_icons=true&locale=en&layout=compact&theme=dark" alt="abhaygupta12" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaygupta12&show_icons=true&locale=en&theme=onedark" alt="abhaygupta12" /></p>
+
+
+## Badges
+ [![@abhaygupta's Holopin board](https://holopin.io/api/user/board?user=abhaygupta)](https://holopin.io/@abhaygupta)
 
 
 
