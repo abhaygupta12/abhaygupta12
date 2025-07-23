@@ -25,21 +25,7 @@
 
 ---
 
-## 💼 Experience
 
-**Software Engineer — Tech Mahindra**  
-*Mar 2024 – Present, Pune*  
-- Working as Software Infrastructure Engineer within Cloud Infra Services
-- Managing storage & backup systems across enterprise environments.
-- Hands-on with RHEL, Windows Server, NetApp ONTAP, Commvault Backup & Recovery
-- Supporting high-availability systems and cloud environments (Azure, GCP)
-
-**Web Application Developer — uCertify**  
-*Sep 2023 – Feb 2024, Noida*  
-- Delivered and enhanced production-grade web features using JavaScript stack.
-- Optimized user experience and security through responsive UI and robust backend APIs
-
----
 
 ## 💡 Projects
 
