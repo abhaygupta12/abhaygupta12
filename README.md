@@ -1,77 +1,114 @@
- 
- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Abhay Gupta</h1>
-<h3 align="center">A passionate Programmer & Web developer</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Abhay Gupta</h1>
+<h3 align="center">Software Engineer | Cloud Infra & Storage Enthusiast | MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaygupta12&label=Profile%20views&color=0e75b6&style=flat" alt="abhaygupta12" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhaygupta12&label=Profile%20views&color=0e75b6&style=flat" alt="abhaygupta12" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhaygupta12&theme=juicyfresh" alt="abhaygupta12" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaygupta12&theme=juicyfresh" alt="abhaygupta12" /></a> </p>
+---
 
-- 💬 Ask me about **C/Cpp programming, Python, React.**
+## 👨🏻‍💻 About Me
 
-- 📫 How to reach me **abhaygupta88599@gmail.com.**
+- 🔭 Software Engineer at **Tech Mahindra**
+- 💡 Passionate about **C/Cpp programming**, Python, MERN Stack & Cloud Technology
+- 🚀 Experienced with Azure & GCP, NetApp ONTAP, Commvault backup, RHEL & Windows server administration
+- 👨‍💼 Managing storage and backup infrastructure for enterprise environments with a strong focus on data integrity and high-availability systems
+- 🛠️ Built multiple MERN stack projects during college and at uCertify, with real-world full stack and API development experience
+- 💬 Ask me about system design, backend APIs, problem-solving, or cloud infrastructure!
+- 🏆 4⭐ Problem Solving @ HackerRank | React skill certified | Coursera/Google Cloud/Microsoft certified
 
-- My primary coding language: **C programming.**
+---
 
-- Earned 4 star at HackerRank in Problem Solving...
+## 💼 Experience
 
-- Passionate for learning & exploring new Tech.
+**Software Engineer — Tech Mahindra**  
+*Mar 2024 – Present, Pune*  
+- Working as Software Infrastructure Engineer within Cloud Infra Services
+- Managing storage & backup systems across enterprise environments.
+- Hands-on with RHEL, Windows Server, NetApp ONTAP, Commvault Backup & Recovery
+- Supporting high-availability systems and cloud environments (Azure, GCP)
 
-- Ask me about anything, I'll be happy to help in finding the solution.
+**Web Application Developer — uCertify**  
+*Sep 2023 – Feb 2024, Noida*  
+- Delivered and enhanced production-grade web features using JavaScript stack.
+- Optimized user experience and security through responsive UI and robust backend APIs
 
-- I'm looking to collaborate on Open source project.
+---
 
-- I’m currently exploring MERN Stack...
+## 💡 Projects
 
-<h3 align="left">Connect with me:</h3>
+| Project           | Stack/Tech                        | Highlights                                    |
+|-------------------|-----------------------------------|-----------------------------------------------|
+| **Foodie-Frenzy** | MERN, REST API                    | Restaurant finder with advanced search and filters |
+| **eSwasthya DApp**| Blockchain, IPFS                  | Secure, decentralized EHR with verifiable storage & access |
+
+---
+
+## 🛠️ Skills & Technology
+
+- **Languages:** C, C++, Python, JavaScript, SQL
+- **Frameworks:** MERN Stack (MongoDB, Express, React, Node.js)
+- **Cloud/Server:** Azure, GCP, RHEL, Windows Server
+- **Storage/Backup:** NetApp ONTAP, Commvault
+- **Tools:** Git, Postman, Visual Studio Code
 
 <p align="left">
-<a href="https://www.linkedin.com/in/abhay-gupta-278529197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="abhaygupta12" height="30" width="40" /></a> 
- <a href="https://www.hackerrank.com/abhaygupta88599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/hackerrank.svg" alt="abhaygupta88599" height="30" width="40" /></a>
- </p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🎯 Certifications & Achievements
+
+- Microsoft Certified: Azure Fundamentals & Data Fundamentals
+- Google Cloud Digital Leader
+- MERN Stack Developer (Udemy/Obify)
+- 4⭐ Problem Solving @ HackerRank
+- React & Problem Solving Skill Certifications (HackerRank)
+- Top performer in backend infrastructure and web technologies
+
+---
+
+## 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  
-  <img align="left"  width="26px"  src="https://user-images.githubusercontent.com/44005233/120921731-9e8ecf80-c6e2-11eb-9ea1-aa04f03ced2e.png" alt="Bootstrap" />
-  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaygupta12&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhaygupta12&show_icons=true&locale=en&theme=onedark" alt="GitHub Stats" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaygupta12&show_icons=true&locale=en&layout=compact&theme=dark" alt="abhaygupta12" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaygupta12&show_icons=true&locale=en&theme=onedark" alt="abhaygupta12" /></p>
+---
 
+## 🤝 Connect With Me
 
-## Badges
- [![@abhaygupta's Holopin board](https://holopin.io/api/user/board?user=abhaygupta)](https://holopin.io/@abhaygupta)
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhay-gupta-278529197" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="Abhay Gupta LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/abhaygupta88599" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/hackerrank.svg" alt="Abhay Gupta HackerRank" height="30" width="40" />
+  </a>
+</p>
 
+- 📬 **abhaygupta88599@gmail.com**
+- 💻 [Portfolio](https://abhaygupta12.github.io/portfolio-site_abhay.co.in/)
+- 💡 Open to collaborations, mentorship, and discussions on cloud or web technologies!
 
+---
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
-
-<!--
-**abhaygupta12/abhaygupta12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring my repositories!</h3>
