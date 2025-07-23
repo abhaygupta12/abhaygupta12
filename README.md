@@ -43,10 +43,22 @@
 
 ## 💡 Projects
 
-| Project           | Stack/Tech                        | Highlights                                    |
-|-------------------|-----------------------------------|-----------------------------------------------|
-| **Foodie-Frenzy** | MERN, REST API                    | Restaurant finder with advanced search and filters |
-| **eSwasthya DApp**| Blockchain, IPFS                  | Secure, decentralized EHR with verifiable storage & access |
+| Project          | Stack/Tech               | Description & Repos                                              |
+|------------------|-------------------------|------------------------------------------------------------------|
+| [**Foodie-Frenzy**](https://github.com/abhaygupta12/Foodie-Frenzy) | MERN, REST API               | Restaurant finder web app with advanced search and filtering.      |
+| [**eSwasthya DApp**](https://github.com/abhaygupta12/eSwasthya)   | Blockchain, IPFS             | Secure, decentralized EHR system with verifiable storage & access. |
+| [**Monstagram**](https://github.com/abhaygupta12/Monstagram)      | MERN, Redux, JWT, Cloudinary | Full-stack photo-sharing social platform (Instagram clone).        |
+
+
+---
+
+### 📌 Quick Access
+
+- [Foodie-Frenzy](https://github.com/abhaygupta12/Foodie-Frenzy): MERN, robust restaurant listing and REST APIs
+- [eSwasthya DApp](https://github.com/abhaygupta12/eSwasthya): Blockchain & IPFS for decentralized, secure EHR storage
+- [Monstagram](https://github.com/abhaygupta12/Monstagram): Social network for sharing images, full MERN stack, cloud storage
+
+*See each repo for demo videos, documentation, and more tech details.*
 
 ---
 
